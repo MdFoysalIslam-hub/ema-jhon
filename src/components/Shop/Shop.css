@@ -1,0 +1,14 @@
+.shop-container{
+    display: flex;
+}
+
+.product-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid rgb(226, 215, 215);
+}
+.cart-container {
+    text-align: center;
+    color: blue;
+}
